@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Radio Mast",
-    "currentPage": "index.html",
+    "currentPage": "Chi siamo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,13 +50,29 @@
     "uniqCompNum": 17,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/radio-mast-logo-128x128-1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "95",
+      "opacityOverlay": "80",
+      "text": "Usiamo i cookes per migliorare la tua esperienza di navigazione. Read here our <a href='privacy.html'>Privacy policy</a>.",
+      "textButton": "ACCETTO"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our  <a href='policy.html'>Privacy Policy</a>."
+    }
   },
   "pages": {
     "index.html": {
