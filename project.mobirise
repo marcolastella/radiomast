@@ -73,7 +73,8 @@
       "underlineLink": false,
       "text": "Continuando accetti i termini della nostra  <a href='policy.html'>Privacy Policy</a>."
     },
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-161719835-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-161719835-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
