@@ -3,9 +3,33 @@
 		<loc>https://radiomast.it/index.html</loc>
 	</url>
 	<url>
-		<loc>https://radiomast.it/Chi siamo.html</loc>
+		<loc>https://radiomast.it/privacy.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/palinsesto.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/contatti.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/podcast.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/intervista.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/chisiamo.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/fotoevideo.html</loc>
 	</url>
 	<url>
 		<loc>https://radiomast.it/eventi.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/lavoraconnoi.html</loc>
+	</url>
+	<url>
+		<loc>https://radiomast.it/inviademo.html</loc>
 	</url>
 </urlset>
