@@ -1218,64 +1218,6 @@ a {
 .cid-scmD4vOWoo {
   background-image: url("../../../assets/images/background11.jpg");
 }
-.cid-scs9FwssZX {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-scs9FwssZX .number-wrap {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-scs9FwssZX .number {
-  color: #ffffff;
-}
-.cid-scs9FwssZX .period {
-  display: block;
-}
-.cid-scs9FwssZX .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-scs9FwssZX .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-scs9FwssZX .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-scs9FwssZX .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-scs9FwssZX .mbr-section-title {
-  color: #ffffff;
-}
-.cid-scs9FwssZX .mbr-text {
-  color: #ffffff;
-}
-.cid-scs9FwssZX .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-scs9FwssZX .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #ffffff;
-  border: 2px solid #ffffff;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-scs9FwssZX .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-scs9FwssZX .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #ffffff;
-  color: #000000;
-}
 .cid-scm7clTw5J {
   padding-top: 2rem;
   padding-bottom: 3rem;
