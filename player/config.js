@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Radio Mast',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://onair.radiomast.it:8000/radiomast.mp3',
+    'url_streaming': 'https://stream.onairpro.it/radio/8000/radiomast.mp3',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
